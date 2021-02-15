@@ -12,6 +12,4 @@ public class State {
 
 	public static final String DISCARDED_NOT_SOUTH_AFRICAN = "DISCARDED - The input number inserted is not south african";
 
-	public static final String DISCARDED_NUMBER_LENGTH = "DISCARDED - Not correct number length";
-
 }
