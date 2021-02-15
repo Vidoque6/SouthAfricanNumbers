@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/swing2swt.jar"/>
+	<classpathentry kind="lib" path="lib/swt-debug-win32-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/swt-debug-win32-windows-x86.jar"/>
+	<classpathentry kind="lib" path="lib/swt-gtk-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/swt-gtk-linux-x86.jar"/>
+	<classpathentry kind="lib" path="lib/swt-win32-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/swt-win32-windows-x86.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
